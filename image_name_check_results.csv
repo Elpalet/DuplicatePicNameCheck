@@ -1,0 +1,49 @@
+﻿result_type,group_key_or_filename,count,filenames,paths
+重复文件名,same.png,4,"same.png
+same.png
+same.png
+same.png","E:\Learning\文献查重\图片文件名识别\.smoke_test_9b595b15eb3149a98023487384ab3dd3\same.png
+E:\Learning\文献查重\图片文件名识别\.smoke_test_9b595b15eb3149a98023487384ab3dd3\sub\same.png
+E:\Learning\文献查重\图片文件名识别\.smoke_test_f1c98d8e04234df88218919c6e635c33\same.png
+E:\Learning\文献查重\图片文件名识别\.smoke_test_f1c98d8e04234df88218919c6e635c33\sub\same.png"
+重复文件名,樊惟磊-20260504_0004.tif (green)+5+1-c.tif,2,"樊惟磊-20260504_0004.tif (green)+5+1-c.tif
+樊惟磊-20260504_0004.tif (green)+5+1-c.tif","E:\Learning\文献查重\图片文件名识别\.smoke_test_9b595b15eb3149a98023487384ab3dd3\樊惟磊-20260504_0004.tif (green)+5+1-c.tif
+E:\Learning\文献查重\图片文件名识别\.smoke_test_f1c98d8e04234df88218919c6e635c33\樊惟磊-20260504_0004.tif (green)+5+1-c.tif"
+重复文件名,樊惟磊-20260504_0004.tif (green)+5+1-g.tif,2,"樊惟磊-20260504_0004.tif (green)+5+1-g.tif
+樊惟磊-20260504_0004.tif (green)+5+1-g.tif","E:\Learning\文献查重\图片文件名识别\.smoke_test_9b595b15eb3149a98023487384ab3dd3\樊惟磊-20260504_0004.tif (green)+5+1-g.tif
+E:\Learning\文献查重\图片文件名识别\.smoke_test_f1c98d8e04234df88218919c6e635c33\樊惟磊-20260504_0004.tif (green)+5+1-g.tif"
+重复文件名,樊惟磊-20260504_0004.tif (green)+5+1-m.tif,2,"樊惟磊-20260504_0004.tif (green)+5+1-m.tif
+樊惟磊-20260504_0004.tif (green)+5+1-m.tif","E:\Learning\文献查重\图片文件名识别\.smoke_test_9b595b15eb3149a98023487384ab3dd3\樊惟磊-20260504_0004.tif (green)+5+1-m.tif
+E:\Learning\文献查重\图片文件名识别\.smoke_test_f1c98d8e04234df88218919c6e635c33\樊惟磊-20260504_0004.tif (green)+5+1-m.tif"
+重复文件名,樊惟磊-20260504_0004.tif (green)+5+1-r.tif,2,"樊惟磊-20260504_0004.tif (green)+5+1-r.tif
+樊惟磊-20260504_0004.tif (green)+5+1-r.tif","E:\Learning\文献查重\图片文件名识别\.smoke_test_9b595b15eb3149a98023487384ab3dd3\樊惟磊-20260504_0004.tif (green)+5+1-r.tif
+E:\Learning\文献查重\图片文件名识别\.smoke_test_f1c98d8e04234df88218919c6e635c33\樊惟磊-20260504_0004.tif (green)+5+1-r.tif"
+异常分组,樊惟磊-20260504_0004.tif (green)+5+1,8,"樊惟磊-20260504_0004.tif (green)+5+1-c.tif
+樊惟磊-20260504_0004.tif (green)+5+1-c.tif
+樊惟磊-20260504_0004.tif (green)+5+1-g.tif
+樊惟磊-20260504_0004.tif (green)+5+1-g.tif
+樊惟磊-20260504_0004.tif (green)+5+1-m.tif
+樊惟磊-20260504_0004.tif (green)+5+1-m.tif
+樊惟磊-20260504_0004.tif (green)+5+1-r.tif
+樊惟磊-20260504_0004.tif (green)+5+1-r.tif","E:\Learning\文献查重\图片文件名识别\.smoke_test_9b595b15eb3149a98023487384ab3dd3\樊惟磊-20260504_0004.tif (green)+5+1-c.tif
+E:\Learning\文献查重\图片文件名识别\.smoke_test_f1c98d8e04234df88218919c6e635c33\樊惟磊-20260504_0004.tif (green)+5+1-c.tif
+E:\Learning\文献查重\图片文件名识别\.smoke_test_9b595b15eb3149a98023487384ab3dd3\樊惟磊-20260504_0004.tif (green)+5+1-g.tif
+E:\Learning\文献查重\图片文件名识别\.smoke_test_f1c98d8e04234df88218919c6e635c33\樊惟磊-20260504_0004.tif (green)+5+1-g.tif
+E:\Learning\文献查重\图片文件名识别\.smoke_test_9b595b15eb3149a98023487384ab3dd3\樊惟磊-20260504_0004.tif (green)+5+1-m.tif
+E:\Learning\文献查重\图片文件名识别\.smoke_test_f1c98d8e04234df88218919c6e635c33\樊惟磊-20260504_0004.tif (green)+5+1-m.tif
+E:\Learning\文献查重\图片文件名识别\.smoke_test_9b595b15eb3149a98023487384ab3dd3\樊惟磊-20260504_0004.tif (green)+5+1-r.tif
+E:\Learning\文献查重\图片文件名识别\.smoke_test_f1c98d8e04234df88218919c6e635c33\樊惟磊-20260504_0004.tif (green)+5+1-r.tif"
+正常分组,same,4,"same.png
+same.png
+same.png
+same.png","E:\Learning\文献查重\图片文件名识别\.smoke_test_9b595b15eb3149a98023487384ab3dd3\same.png
+E:\Learning\文献查重\图片文件名识别\.smoke_test_9b595b15eb3149a98023487384ab3dd3\sub\same.png
+E:\Learning\文献查重\图片文件名识别\.smoke_test_f1c98d8e04234df88218919c6e635c33\same.png
+E:\Learning\文献查重\图片文件名识别\.smoke_test_f1c98d8e04234df88218919c6e635c33\sub\same.png"
+正常分组,鍥惧儚-20260504_0004.tif (green)+5+1,4,"鍥惧儚-20260504_0004.tif (green)+5+1-c.tif
+鍥惧儚-20260504_0004.tif (green)+5+1-g.tif
+鍥惧儚-20260504_0004.tif (green)+5+1-m.tif
+鍥惧儚-20260504_0004.tif (green)+5+1-r.tif","E:\Learning\文献查重\图片文件名识别\图片\鍥惧儚-20260504_0004.tif (green)+5+1-c.tif
+E:\Learning\文献查重\图片文件名识别\图片\鍥惧儚-20260504_0004.tif (green)+5+1-g.tif
+E:\Learning\文献查重\图片文件名识别\图片\鍥惧儚-20260504_0004.tif (green)+5+1-m.tif
+E:\Learning\文献查重\图片文件名识别\图片\鍥惧儚-20260504_0004.tif (green)+5+1-r.tif"
